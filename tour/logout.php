@@ -1,9 +1,0 @@
-<?php
-session_start();
-session_destroy();
-setcookie("userC","",time()*0);
-setcookie("passC","",time()*0);
-setcookie("typeC","",time()*0);
-setcookie("cityC","",time()*0);
-header("location:index.php");
-?>
