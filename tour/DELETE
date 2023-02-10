@@ -1,0 +1,12 @@
+/*
+
+1. Google maps implementálás 
+A felhasználó megtekintheti a turisztikai kínálatok helyszínét az oldalon belül 
+
+2. Felhasználó ip cím rögzítés 
+Ellenőrzi hogy a felhasználó bejelentkezett e már az adott ip címen korábban, biztonsági funkcióként 
+
+3. Túrák rögzítése 
+Adatbázisban elmenti a felhasználó régebben résztvett túráit
+
+*/
